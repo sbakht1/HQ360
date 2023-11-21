@@ -1,0 +1,383 @@
+Lastname,FirstName,FullName,Email,Home Number,Work Number,Cellular Number,Designation,Status,Start Date,TerminationDate,Supervisor
+Branco,Kristoffer,Kristoffer Branco,kbranco@tweatt.com,,7325520903,6097136000,Admin,Active,12-Mar-09,,3
+Wainwright,Brian,Brian Wainwright,bwainwright@tweatt.com,5555555555,,,Admin,Active,12-Mar-09,,
+Johnson,Julie,Julie Johnson,jjohnson@tweatt.com,,7573310001,7573310001,Admin,Active,19-Apr-07,,735
+James,Joseph,Joseph James,jjames@tweatt.com,,,,Human Resources,Active,04-Apr-99,,1236
+Bulmer,Christopher,Christopher Bulmer,cbulmer@tweatt.com,null,null,null,Admin,Active,12-Mar-09,,3
+Sales,Test,Test Sales,test.sales@thewirelessexperience.com,,,,Salespeople,Active,23-Mar-09,,43
+Jones,Lynn,Lynn Jones,ljones@tweatt.com,,,,B2B Supervisor,Active,19-May-09,,797
+Pogue,Patricia,Patricia Pogue,ppogue@tweatt.com,,7325520918,,Admin,Active,22-Jun-09,,3
+Petrulsky,Anthony,Anthony Petrulsky,apetrulsky@tweatt.com,,,5704011597,District Team Leader,Active,17-Mar-10,,2134
+White,Jesse,Jesse White,jwhite@tweatt.com,,,,Admin,Active,13-Nov-17,,2
+Sakevich,Kimberly,Kimberly Sakevich,ksakevich@tweatt.com,,,,Admin,Active,01-Nov-17,,917
+Schuler,Shyloe,Shyloe Schuler,shyloe.schuler@thewirelessexperience.com,4849043237,,4849043237,Store Team Leader,Active,15-Oct-10,,2523
+Jirinec,DJ,DJ Jirinec,user415@thewirelessexperience.com,,,,Salespeople,Active,12-Mar-12,,43
+Lepordo,Joseph,Joseph Lepordo,jlepordo@tweatt.com,,,6173066685,Human Resources,Active,03-Dec-12,,3
+Shanahan,Jonathan,Jonathan Shanahan,JShanahan@tweatt.com,,,6178006771,Admin,Active,24-Jan-13,,528
+Beaulieu,Danielle,Danielle Beaulieu,dbeaulieu@tweatt.com,,,,Human Resources,Active,01-May-13,,1236
+Langford,Matthew,Matthew Langford,mlangford@tweatt.com,,,3152472700,Admin,Active,16-May-13,,3
+Martinez,Michael,Michael Martinez,mmartinez@tweatt.com,732-552-0050,732-552-0050,732-552-0050,Human Resources,Active,11-Dec-18,,552
+Ferdoucha,Jared,Jared Ferdoucha,jared.ferdoucha@thewirelessexperience.com,,5702257390,5707518118,Store Team Leader,Active,28-Feb-14,,224
+Jankowski,Lisa,Lisa Jankowski,ljankowski@tweatt.com,,,,Admin,Active,04-Mar-14,,43
+Hunter,Kevin,Kevin Hunter,kevin.hunter@thewirelessexperience.com,,,6105135272,Store Team Leader,Active,24-Jun-14,,2675
+Shaver,Robert,Robert Shaver,rshaver@tweatt.com,,,,Admin,Active,01-Jun-15,,3
+Schuler,Glenn,Glenn Schuler,glenn.schuler@thewirelessexperience.com,,,,Store Team Leader,Active,18-Sep-14,,2675
+DeCesare,Cole,Cole DeCesare,cole.decesare@thewirelessexperience.com,,,,Store Team Leader,Active,22-Sep-14,,2127
+Ponzio,RJ,RJ Ponzio,rponzio@tweatt.com,7329088324,7329088324,7329088324,Admin,Active,09-Feb-15,,2
+Cross,Gerald,Gerald Cross,gerald.cross@thewirelessexperience.com,,,6179220835,Salespeople,Active,16-Sep-15,,3382
+Schuetz,Lauren,Lauren Schuetz,lschuetz@tweatt.com,,,4433333035,Human Resources,Active,21-Oct-15,,552
+Mcdermott,James,James Mcdermott,James.Mcdermott@thewirelessexperience.com,,,,Salespeople,Active,12-Nov-15,,1652
+Porter,Brittany,Brittany Porter,Brittany.Porter@thewirelessexperience.com,,,4436172790,Store Team Leader,Active,30-Mar-16,,2559
+Whittet,Scott,Scott Whittet,swhittet@tweatt.com,,,,Corporate,Active,06-Jun-16,,735
+Franco,Tony,Tony Franco,Tony.Franco@thewirelessexperience.com,,,9788852774,Store Team Leader,Active,17-Jun-16,,1895
+DiRodrico,Angelo,Angelo DiRodrico,workorders@tweatt.com,,,,Corporate,Active,29-Jul-16,,162
+Gaquer,Maurice,Maurice Gaquer,mgaquer@tweatt.com,,,,Corporate,Active,03-Aug-16,,162
+Gormezano,Paul,Paul Gormezano,Paul.Gormezano@thewirelessexperience.com,,,,Store Team Leader,Active,03-Aug-16,,1797
+Andrien,Mark,Mark Andrien,mandrien@tweatt.com,,,,Corporate,Active,28-Aug-16,,1230
+Pagan,Karissa,Karissa Pagan,kpagan@tweatt.com,,,7742252248,Store Team Leader,Active,10-Feb-17,,1631
+Thapa,Ram,Ram Thapa,Ram.Thapa@thewirelessexperience.com,,,,Store Team Leader,Active,13-Apr-17,,1895
+Mollo,Krystina,Krystina Mollo,kmollo@tweatt.com,,,,Human Resources,Active,09-May-17,,57
+Bettler,Sylena,Sylena Bettler,Sylena.Bettler@thewirelessexperience.com,,,2159413029,Store Team Leader,Active,12-Jun-17,,2523
+Smith,Andre,Andre Smith,Andre.Smith@thewirelessexperience.com,,,,Store Team Leader,Active,11-Jul-17,,3236
+Velez,Francisco,Francisco Velez,Francisco.Velez@thewirelessexperience.com,,,,Store Team Leader,Active,21-Aug-17,,2523
+LaFace,Michael,Michael LaFace,Michael.LaFace@thewirelessexperience.com,,,,Store Team Leader,Active,19-Sep-17,,1797
+Williams,Jah,Jah Williams,Jahniquia.Williams@thewirelessexperience.com,,,9179297944,Store Team Leader,Active,28-Sep-17,,2559
+Garcia,William,William Garcia,William.Garcia@thewirelessexperience.com,,,,District Team Leader,Active,18-Dec-17,,528
+Quinn,Jennifer,Jennifer Quinn,jquinn@tweatt.com,,,,Admin,Active,03-Jan-18,,
+Villanueva,Jonathan,Jonathan Villanueva,Jonathan.Villanueva@thewirelessexperience.com,,,,Store Team Leader,Active,04-Jan-18,,224
+Iaione,Kaylin,Kaylin Iaione,Kaylin.Iaione@thewirelessexperience.com,,,,Salespeople,Active,17-Jan-18,,3554
+Schreiber,Zachary,Zachary Schreiber,Zachary.Schreiber@thewirelessexperience.com,,,,Store Team Leader,Active,24-Jan-18,,2675
+Burkett,Eric,Eric Burkett,Eric.Burkett@thewirelessexperience.com,,,,Salespeople,Active,15-Feb-18,,1071
+Dufford,Carly,Carly Dufford,cdufford@tweatt.com,,,7326874741,Human Resources,Active,02-Apr-18,,552
+Rossino,Kelly,Kelly Rossino,krossino@tweatt.com,,,,Corporate,Active,03-Apr-18,,735
+Chammas,Michael,Michael Chammas,Michael.Chammas@thewirelessexperience.com,,,,Store Team Leader,Active,18-Jun-18,,1895
+Boncoraglio,Anthony,Anthony Boncoraglio,Anthony.Boncoraglio@thewirelessexperience.com,,,,Store Team Leader,Active,02-Jul-18,,2127
+Parr,Donald,Donald Parr,dparr@tweatt.com,,,,District Team Leader,Active,06-Aug-18,,528
+Lowe,Trever,Trever Lowe,trever.lowe@thewirelessexperience.com,,,7819013723,Store Team Leader,Active,24-Sep-18,,1631
+Depaz,Jonathan,Jonathan Depaz,Jonathan.Depaz@thewirelessexperience.com,,,,Store Team Leader,Active,26-Sep-18,,2675
+Huang,Samuel,Samuel Huang,shuang@tweatt.com,,,,District Team Leader,Active,22-Oct-18,,528
+Lopez,Josue,Josue Lopez,Josue.Lopez@thewirelessexperience.com,,,,Store Team Leader,Active,22-Oct-18,,1631
+Oltmann,Gage,Gage Oltmann,Gage.Oltmann@thewirelessexperience.com,,,,Store Team Leader,Active,05-Nov-18,,1797
+Saintil,Sebastien,Sebastien Saintil,Sebastien.Saintil@thewirelessexperience.com,,,,Salespeople,Active,27-Jul-20,,2018
+Swayne,Carley,Carley Swayne,Carley.Swayne@thewirelessexperience.com,,,7172015246,Store Team Leader,Active,17-Dec-18,,3236
+Hynes,Thomas,Thomas Hynes,Thomas.Hynes@thewirelessexperience.com,,,,Store Team Leader,Active,16-Aug-19,,1797
+Mukadi,Manu,Manu Mukadi,manu.mukadi@thewirelessexperience.com,,,,Salespeople,Active,21-Jan-19,,2018
+Streeter,Gary,Gary Streeter,Gary.Streeter@thewirelessexperience.com,,,,Store Team Leader,Active,01-Nov-19,,1895
+Canavan,Daniel,Daniel Canavan,Daniel.Canavan@thewirelessexperience.com,,,,Salespeople,Active,11-Mar-19,,1191
+Omelio,Alison,Alison Omelio,aomelio@tweatt.com,,,,Corporate,Active,22-Apr-19,,1638
+Preston,Derrick,Derrick Preston,Derrick.Preston@thewirelessexperience.com,,,,Salespeople,Active,22-Apr-19,,2682
+Washington,Jasmine,Jasmine Washington,Jasmine.Washington@thewirelessexperience.com,,,3016533975,Store Team Leader,Active,13-Aug-19,,2559
+Moore,Sarah,Sarah Moore,Sarah.Moore@thewirelessexperience.com,,,,Store Team Leader,Active,20-May-19,,224
+Timony,Barry,Barry Timony,btimony@tweatt.com,,,,District Team Leader,Active,09-Nov-20,,528
+Gray,Sharyta,Sharyta Gray,Sharyta.Gray@thewirelessexperience.com,,,,Salespeople,Active,15-Jul-19,,2070
+Yoder,James,James Yoder,jyoder@tweatt.com,7178238036,,7178238036,Admin,Active,15-Jul-19,,2134
+Whiles,Corbyn,Corbyn Whiles,Corbyn.Whiles@thewirelessexperience.com,,,,Salespeople,Active,05-Aug-19,,2304
+Bair,Kyle,Kyle Bair,Kyle.Bair@thewirelessexperience.com,,,7178181939,Salespeople,Active,05-Aug-19,,2889
+Reimiller,Samantha,Samantha Reimiller,Samantha.Reimiller@thewirelessexperience.com,,,,Store Team Leader,Active,19-Aug-19,,224
+Coppola,Jason,Jason Coppola,Jason.Coppola@thewirelessexperience.com,,,,Store Team Leader,Active,03-Aug-20,,2523
+Wilson,Kyle,Kyle Wilson,Kyle.Wilson@thewirelessexperience.com,,,,Store Team Leader,Active,26-Aug-19,,224
+Aoki,Thomas,Thomas Aoki,TAoki@Tweatt.com,,,,Admin,Active,30-Aug-19,,3
+Crismond,Scott,Scott Crismond,Scott.Crismond@thewirelessexperience.com,,,,Store Team Leader,Active,30-Sep-19,,2523
+Medas,Isaac,Isaac Medas,Isaac.Medas@thewirelessexperience.com,,,,Store Team Leader,Active,16-Sep-19,,2127
+Vrotsos,Michael,Michael Vrotsos,Michael.Vrotsos@thewirelessexperience.com,,,,Salespeople,Active,30-Sep-19,,3137
+Knapp,Chantal,Chantal Knapp,Chantal.Knapp@thewirelessexperience.com,7179196569,,7179196569,Store Team Leader,Active,07-Oct-19,,3236
+Maletta,Joshua,Joshua Maletta,Joshua.Maletta@thewirelessexperience.com,,,,Salespeople,Active,07-Oct-19,,2440
+Walsh,Joel,Joel Walsh,Joel.Walsh@thewirelessexperience.com,,,5708998889,Store Team Leader,Active,07-Oct-19,,224
+Smith,Daniel,Daniel Smith,Dan.Smith@thewirelessexperience.com,,,9792574377,Store Team Leader,Active,11-Nov-19,,1895
+Perez,Christopher,Christopher Perez,Christopher.Perez@thewirelessexperience.com,,,,Salespeople,Active,03-Feb-20,,2079
+Williamson,Brendan,Brendan Williamson,Brendan.Williamson@thewirelessexperience.com,,,,Salespeople,Active,05-Feb-20,,2009
+Rolfzen,Adam,Adam Rolfzen,Adam.Rolfzen@thewirelessexperience.com,,,,Store Team Leader,Active,24-Feb-20,,2718
+Segnan,Thomas,Thomas Segnan,Thomas.Segnan@thewirelessexperience.com,,,6096355079,Store Team Leader,Active,09-Mar-20,,2127
+Turner,Jack,Jack Turner,Jack.Turner@thewirelessexperience.com,,,,Store Team Leader,Active,29-Jun-20,,3236
+Sutton,Nicholas,Nicholas Sutton,Nicholas.Sutton@thewirelessexperience.com,,,,Salespeople,Active,30-Jun-20,,2682
+Greiner,Tristan,Tristan Greiner,Tristan.Greiner@thewirelessexperience.com,,,,Salespeople,Active,06-Jul-20,,2203
+Adedoyin,Akeem,Akeem Adedoyin,Akeem.Adedoyin@thewirelessexperience.com,,,,Store Team Leader,Active,06-Jul-20,,1631
+Marceus,Schneider,Schneider Marceus,smarceus@tweatt.com,,,,District Team Leader,Active,27-Jul-20,,2134
+Vasquez,Luiz,Luiz Vasquez,Luiz.Vasquez@thewirelessexperience.com,,,,Salespeople,Active,13-Jul-20,,1191
+Crawford,Daniel,Daniel Crawford,Daniel.Crawford@thewirelessexperience.com,,,,Store Team Leader,Active,05-Aug-20,,2127
+Murphy,Lloyd,Lloyd Murphy,Lloyd.Murphy@thewirelessexperience.com,,,,Salespeople,Active,13-Apr-21,,1573
+Lewis,Wendell,Wendell Lewis,wendell.lewis@thewirelessexperience.com,,,,Store Team Leader,Active,17-Aug-20,,2559
+Turner,Alazia,Alazia Turner,alazia.turner@thewirelessexperience.com,,,,Salespeople,Active,31-Aug-20,,2650
+Ferrufino,Ariel,Ariel Ferrufino,aferrufino@tweatt.com,,,,District Team Leader,Active,24-Aug-20,,528
+Nemeth,Clara,Clara Nemeth,clara.nemeth@thewirelessexperience.com,,,,Salespeople,Active,31-Aug-20,,2268
+Garcia,Alexis,Alexis Garcia,Alexis.Garcia@thewirelessexperience.com,,,,Store Team Leader,Active,07-Sep-20,,2523
+Blaine,Jerrell,Jerrell Blaine,Jerrell.Blaine@thewirelessexperience.com,,,,Store Team Leader,Active,21-Sep-20,,3236
+Bowling,Mannie,Mannie Bowling,Mannie.Bowling@thewirelessexperience.com,,,,Store Team Leader,Active,28-Sep-20,,2523
+Callen,Dalton,Dalton Callen,dalton.callen@thewirelessexperience.com,,,,Salespeople,Active,19-Oct-20,,2188
+Orben,Courtney,Courtney Orben,Courtney.orben@thewirelessexperience.com,,,,Salespeople,Active,19-Oct-20,,2268
+Hoch,Joshua,Joshua Hoch,Joshua.Hoch@thewirelessexperience.com,,,,Salespeople,Active,13-Oct-20,,2942
+Garbarino,Suzanne,Suzanne Garbarino,Suzanne.Garbarino@thewirelessexperience.com,,,,Store Team Leader,Active,26-Oct-20,,2675
+McDill,Derek,Derek McDill,Derek.McDill@thewirelessexperience.com,,,,Salespeople,Active,09-Nov-20,,2196
+Wagner,Zacary,Zacary Wagner,rwagner@tweatt.com,,,,District Team Leader,Active,30-Nov-20,,2134
+Ballard,Mikaela,Mikaela Ballard,mikaela.ballard@thewirelessexperience.com,,,,Store Team Leader,Active,16-Nov-20,,2559
+Zeigler,Ely,Ely Zeigler,Ely.Zeigler@thewirelessexperience.com,,,,Store Team Leader,Active,30-Nov-20,,3236
+Snyder,Kaitlin,Kaitlin Snyder,Kaitlin.Snyder@thewirelessexperience.com,,,,Store Team Leader,Active,04-Jan-21,,2523
+Smith,Tyler,Tyler Smith,tyler.smith@thewirelessexperience.com,,,,District Team Leader,Active,11-Jan-21,,528
+Williamson,Chantler,Chantler Williamson,chantler.williamson@thewirelessexperience.com,,,,Salespeople,Active,25-Jan-21,,1976
+Yaeger,David,David Yaeger,David.Yaeger@thewirelessexperience.com,,,,Store Team Leader,Active,25-Jan-21,,2127
+Olivares,Abraham,Abraham Olivares,abraham.olivares@thewirelessexperience.com,,,,Salespeople,Active,01-Feb-21,,2788
+Diaz,Shaina,Shaina Diaz,Shaina.Diaz@thewirelessexperience.com,,,,Salespeople,Active,08-Feb-21,,3215
+Jackson,Kenneth,Kenneth Jackson,kenneth.jackson@thewirelessexperience.com,,,,Store Team Leader,Active,16-Mar-21,,2718
+Rachmaciej,Brian,Brian Rachmaciej,Brian.Rachmaciej@thewirelessexperience.com,,,,Store Team Leader,Active,08-Mar-21,,1631
+Strand,Justin,Justin Strand,justin.strand@thewirelessexperience.com,,,,Store Team Leader,Active,22-Mar-21,,1797
+Ballard,Deonte,Deonte Ballard,deonte.ballard@thewirelessexperience.com,,,,Salespeople,Active,22-Mar-21,,2440
+Jackson,Phillip,Phillip Jackson,phillip.jackson@thewirelessexperience.com,,,,Salespeople,Active,29-Mar-21,,2554
+Del Castillo,Allen,Allen Del Castillo,Allen.DelCastillo@thewirelessexperience.com,,,,Salespeople,Active,22-Mar-21,,2572
+Dalimonte,Jacob,Jacob Dalimonte,Jacob.Dalimonte@thewirelessexperience.com,,,,Store Team Leader,Active,22-Mar-21,,1895
+Schlussler,Cameron,Cameron Schlussler,cameron.schlussler@thewirelessexperience.com,,,786-762-1788,Store Team Leader,Active,12-Apr-21,,1797
+Johnson,Chris,Chris Johnson,chris.johnson@thewirelessexperience.com,,,,Store Team Leader,Active,26-Apr-21,,2127
+Kapo,Jason,Jason Kapo,jason.kapo@thewirelessexperience.com,,,,Salespeople,Active,26-Apr-21,,2009
+Wilkins,Rossi,Rossi Wilkins,rossi.wilkins@thewirelessexperience.com,,,,Salespeople,Active,03-May-21,,1491
+Anderson,Quarri,Quarri Anderson,quarri.anderson@thewirelessexperience.com,,,,Salespeople,Active,03-May-21,,1573
+Lubrecht,Jack,Jack Lubrecht,jack.lubrecht@thewirelessexperience.com,,,,Store Team Leader,Active,10-May-21,,2127
+Gusst,Jacob,Jacob Gusst,jacob.gusst@thewirelessexperience.com,,,,Salespeople,Active,10-May-21,,1961
+Krejcarek,Karsten,Karsten Krejcarek,kkrejcarek@tweatt.com,,,,Admin,Active,05-May-21,,735
+Donaldson,RyQuan,RyQuan Donaldson,ryquan.donaldson@thewirelessexperience.com,,,,Store Team Leader,Active,10-May-21,,3236
+Tiburcio,Tatiana,Tatiana Tiburcio,tatiana.tiburcio@thewirelessexperience.com,,,,Salespeople,Active,25-May-21,,1743
+Dessources,Lionel,Lionel Dessources,lionel.dessources@thewirelessexperience.com,,,,Salespeople,Active,24-May-21,,2785
+Coleman,Jesse,Jesse Coleman,jesse.coleman@thewirelessexperience.com,,,,Salespeople,Active,17-May-21,,3122
+Stapleton,April,April Stapleton,april.stapleton@thewirelessexperience.com,,,,Store Team Leader,Active,24-May-21,,224
+Downey,Alexander,Alexander Downey,alexander.downey@thewirelessexperience.com,,,,Store Team Leader,Active,24-May-21,,2559
+Shaikh,Muhammad,Muhammad Shaikh,muhammad.shaikh@thewirelessexperience.com,,,,Salespeople,Active,01-Jun-21,,1900
+Casseus,Elijah,Elijah Casseus,elijah.casseus@thewirelessexperience.com,,,,Store Team Leader,Active,01-Jun-21,,1895
+Hamlett,Camryn,Camryn Hamlett,camryn.hamlett@thewirelessexperience.com,,,,Salespeople,Active,07-Jun-21,,2070
+Woodhouse,Andre,Andre Woodhouse,andre.woodhouse@thewirelessexperience.com,,,,Salespeople,Active,21-Jun-21,,2718
+Suarez,Matthew,Matthew Suarez,matthew.suarez@thewirelessexperience.com,,,,Store Team Leader,Active,08-Jun-21,,2523
+Norris,Jason,Jason Norris,jason.norris@thewirelessexperience.com,,,,Salespeople,Active,21-Jun-21,,2740
+Matusko,Austin,Austin Matusko,austin.matusko@thewirelessexperience.com,,,,Salespeople,Active,14-Jun-21,,2918
+Weiss,Brooke,Brooke Weiss,brooke.weiss@thewirelessexperience.com,,,,Salespeople,Active,28-Jun-21,,783
+Brown,Johnny,Johnny Brown,johnny.brown@thewirelessexperience.com,,,,Store Team Leader,Active,05-Jul-21,,3236
+Rivera,Hector,Hector Rivera,hector.rivera@thewirelessexperience.com,,,,Salespeople,Active,28-Jun-21,,3068
+Khazir,Momo,Momo Khazir,momo.khazir@thewirelessexperience.com,,,,Salespeople,Active,28-Jun-21,,1511
+Rosa,Sely,Sely Rosa,sely.rosa@thewirelessexperience.com,,,,Salespeople,Active,29-Jun-21,,1432
+Hackney,Angel,Angel Hackney,ahackney@tweatt.com,,,,Human Resources,Active,28-Jun-21,,57
+Hutchison,Jerry,Jerry Hutchison,jerry.hutchison@thewirelessexperience.com,,,,Store Team Leader,Active,28-Jun-21,,2127
+Jones,Justin,Justin Jones,justin.jones@thewirelessexperience.com,,,,Salespeople,Active,05-Jul-21,,2594
+Lloyd,Shay,Shay Lloyd,shay.lloyd@thewirelessexperience.com,,,,Store Team Leader,Active,12-Jul-21,,2559
+Amaya,Naz,Naz Amaya,naz.carolina-amaya@thewirelessexperience.com,,,,Salespeople,Active,07-Jul-21,,2018
+Dawsey,Katelyn,Katelyn Dawsey,kate.dawsey@thewirelessexperience.com,,,,Salespeople,Active,12-Jul-21,,663
+Kellon,Averi,Averi Kellon,averi.kellon@thewirelessexperience.com,,,,Salespeople,Active,12-Jul-21,,1652
+Orso,Joshua,Joshua Orso,josh.orso@thewirelessexperience.com,,,,Store Team Leader,Active,12-Jul-21,,224
+De La Cruz,Nicole,Nicole De La Cruz,nicole.delacruz@thewirelessexperience.com,,,,Salespeople,Active,19-Jul-21,,1432
+Kamil,Ilt,Ilt Kamil,ilt.kamil@thewirelessexperience.com,,,,Salespeople,Active,19-Jul-21,,2241
+Echevarria,Sophia,Sophia Echevarria,sophia.echevarria@thewirelessexperience.com,,,,Salespeople,Active,02-Aug-21,,1511
+Chisholm,Blake,Blake Chisholm,blake.chisholm@thewirelessexperience.com,,,,Store Team Leader,Active,19-Jul-21,,3236
+Loor,Lexi,Lexi Loor,lexi.loor@thewirelessexperience.com,,,,Salespeople,Active,19-Jul-21,,2268
+Wilson-Spivak,Michael,Michael Wilson-Spivak,michael.wilson-spivak@thewirelessexperience.com,,,,Store Team Leader,Active,19-Jul-21,,2127
+Gonzalez,Maycol,Maycol Gonzalez,maycol.gonzalez@thewirelessexperience.com,,,,Store Team Leader,Active,02-Aug-21,,3236
+Ulloa,Zachary,Zachary Ulloa,zack.ulloa@thewirelessexperience.com,,,,Salespeople,Active,02-Aug-21,,1933
+Sanchez,Jenuin,Jenuin Sanchez,jen.sanchez@thewirelessexperience.com,,,,Store Team Leader,Active,26-Jul-21,,1797
+Verbejus,Nicole,Nicole Verbejus,nicole.verbejus@thewirelessexperience.com,,,,Salespeople,Active,26-Jul-21,,2542
+Clock1,Time,Time Clock1,tctest1@tweatt.com,,,,Salespeople,Active,30-Jul-21,,3103
+Clock2,Time,Time Clock2,tctest2@tweatt.com,,,,Store Team Leader,Active,29-Jul-21,,3104
+Clock3,Time,Time Clock3,tctest3@tweatt.com,,,,District Team Leader,Active,28-Jul-21,,2134
+Aguilar-Lopez,Bryan,Bryan Aguilar-Lopez,bryan.aguilar-lopez@thewirelessexperience.com,,,,Salespeople,Active,09-Aug-21,,3087
+Shields,Zach,Zach Shields,zach.shields@thewirelessexperience.com,,,,Salespeople,Active,09-Aug-21,,2677
+Rupiza-Ramos,Omar,Omar Rupiza-Ramos,omar.rupiza-ramos@thewirelessexperience.com,,,,Salespeople,Active,09-Aug-21,,274
+David,Vlad,Vlad David,vlad.david@thewirelessexperience.com,,,,Store Team Leader,Active,09-Aug-21,,2127
+Jones,Taylor,Taylor Jones,taylor.jones@thewirelessexperience.com,,,,Salespeople,Active,09-Aug-21,,3034
+Dalfonso,Ava,Ava Dalfonso,ava.dalfonso@thewirelessexperience.com,,,,Salespeople,Active,16-Aug-21,,2470
+Delacruz,Sofia,Sofia Delacruz,sofia.delacruz@thewirelessexperience.com,,,,Store Team Leader,Active,16-Aug-21,,1631
+Thorpe,Natasha,Natasha Thorpe,natasha.thorpe@thewirelessexperience.com,,,,Salespeople,Active,30-Aug-21,,2304
+Bonardi,Brian,Brian Bonardi,brian.bonardi@thewirelessexperience.com,,,,Store Team Leader,Active,30-Aug-21,,2127
+Sheppard,Danielle,Danielle Sheppard,danielle.sheppard@thewirelessexperience.com,,,,Salespeople,Active,30-Aug-21,,2718
+Calderon,Jake,Jake Calderon,jake.calderon@thewirelessexperience.com,,,,Salespeople,Active,30-Aug-21,,2203
+Shearer,Derkin,Derkin Shearer,derkin.shearer@thewirelessexperience.com,,,,Salespeople,Active,09-Sep-21,,2682
+Shively,Gabby,Gabby Shively,gabby.shively@thewirelessexperience.com,,,,Salespeople,Active,06-Sep-21,,1900
+Husfelt,Britney,Britney Husfelt,britney.husfelt@thewirelessexperience.com,,,,Salespeople,Active,30-Aug-21,,2948
+Cathey,Matthew,Matthew Cathey,matt.cathey@thewirelessexperience.com,,,,Salespeople,Active,30-Aug-21,,2740
+Stlaurent,Zachary,Zachary Stlaurent,zach.stlaurent@thewirelessexperience.com,,,,Store Team Leader,Active,30-Aug-21,,1631
+Riston,Jason,Jason Riston,jason.riston@thewirelessexperience.com,,,,Store Team Leader,Active,13-Sep-21,,2559
+Ferguson,Karl,Karl Ferguson,karl.ferguson@thewirelessexperience.com,,,,Salespeople,Active,13-Sep-21,,3554
+Dolom,Kcee,Kcee Dolom,kcee.dolom@thewirelessexperience.com,,,,Salespeople,Active,07-Sep-21,,2440
+Lopez,Ryan,Ryan Lopez,ryan.lopez@thewirelessexperience.com,,,,Salespeople,Active,09-Sep-21,,1933
+Gomes,Domingos,Domingos Gomes,domingos.gomes@thewirelessexperience.com,,,,Salespeople,Active,13-Sep-21,,2018
+Wilson,Jazmyne,Jazmyne Wilson,jazmyne.wilson@thewirelessexperience.com,,,,Store Team Leader,Active,13-Sep-21,,2675
+White,Noah,Noah White,noah.white@thewirelessexperience.com,,,,Salespeople,Active,13-Sep-21,,2907
+Reyes,Anthony,Anthony Reyes,anthony.reyes@thewirelessexperience.com,,,,Salespeople,Active,27-Sep-21,,3271
+Blanchette,Austin,Austin Blanchette,austin.blanchette@thewirelessexperience.com,,,,Store Team Leader,Active,22-Sep-21,,1895
+Lemeur,Summer,Summer Lemeur,summer.lemeur@thewirelessexperience.com,,,,Salespeople,Active,04-Oct-21,,3044
+Staff Support,Inventory,Inventory Staff Support,inventory.StaffSupport@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+IT,Cricket,Cricket IT,cricketit@tweatt.com,,,,Admin,Active,01-Sep-21,,
+HR,Cricket,Cricket HR,crickethr@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+Powell,Sylvia,Sylvia Powell,sylvia.powell@thewirelessexperience.com,,,,Store Team Leader,Active,20-Sep-21,,1895
+Aguirre,Danny,Danny Aguirre,danny.aguirre@thewirelessexperience.com,,,,Salespeople,Active,27-Sep-21,,3122
+Sousa,Brian,Brian Sousa,brian.sousa@thewirelessexperience.com,,,,Salespeople,Active,27-Sep-21,,1397
+Nelson,Isaiah,Isaiah Nelson,isaiah.nelson@thewirelessexperience.com,,,,Store Team Leader,Active,27-Sep-21,,1797
+Vazquez,Ian,Ian Vazquez,ian.vazquez@thewirelessexperience.com,,,,Salespeople,Active,27-Sep-21,,3362
+Watkins,Rian,Rian Watkins,rian.watkins@thewirelessexperience.com,,,,Salespeople,Active,04-Oct-21,,2907
+Arroyo,Julio,Julio Arroyo,jarroyo@tweatt.com,,,,District Team Leader,Active,04-Oct-21,,43
+Guillermo,Danny,Danny Guillermo,danny.guillermo@thewirelessexperience.com,,,,Salespeople,Active,18-Oct-21,,2572
+Golden,Brendon,Brendon Golden,brendon.golden@thewirelessexperience.com,,,,Salespeople,Active,18-Oct-21,,2677
+Long,Noah,Noah Long,noah.long@thewirelessexperience.com,,,,Salespeople,Active,11-Oct-21,,274
+Flebotte,Matthew,Matthew Flebotte,matthew.flebotte@thewirelessexperience.com,,,,Store Team Leader,Active,11-Oct-21,,1631
+Chapple,Deandre,Deandre Chapple,deandre.chapple@thewirelessexperience.com,,,,Salespeople,Active,18-Oct-21,,3169
+Shulca,Kevin,Kevin Shulca,kevin.shulca@thewirelessexperience.com,,,,Salespeople,Active,25-Oct-21,,1933
+Maurer,Dawson,Dawson Maurer,Dawson.Maurer@thewirelessexperience.com,,,,Salespeople,Active,25-Oct-21,,1639
+Williams,Khalief,Khalief Williams,Khalief.Williams@thewirelessexperience.com,,,,Salespeople,Active,18-Oct-21,,2906
+Locke,Jason,Jason Locke,jason.locke@thewirelessexperience.com,,,,Store Team Leader,Active,25-Oct-21,,2675
+Chehouri,Ismail,Ismail Chehouri,ismail.chehouri@thewirelessexperience.com,,,,Store Team Leader,Active,25-Oct-21,,2523
+Azzaretti,Ezekiel,Ezekiel Azzaretti,ezekiel.azzaretti@thewirelessexperience.com,,,,Salespeople,Active,25-Oct-21,,2883
+Homacki,Tatyana,Tatyana Homacki,tatyana.homacki@thewirelessexperience.com,,,,Salespeople,Active,08-Nov-21,,1875
+Gonzalez,Justin,Justin Gonzalez,justin.gonzalez@thewirelessexperience.com,,,,Store Team Leader,Active,01-Nov-21,,1797
+Guava,Valerie,Valerie Guava,valerie.guava@thewirelessexperience.com,,,,Salespeople,Active,02-Nov-21,,1432
+Attipoe,Lebene,Lebene Attipoe,lebene.attipoe@thewirelessexperience.com,,,,Salespeople,Active,01-Nov-21,,1237
+Kamara,Curtis,Curtis Kamara,curtis.kamara@thewirelessexperience.com,,,,Store Team Leader,Active,01-Nov-21,,2718
+Cabrera,Diego,Diego Cabrera,Diego.Cabrera@thewirelessexperience.com,,,,Salespeople,Active,04-Jun-21,,3382
+Matuawana,Mario,Mario Matuawana,Mario.Matuawana@thewirelessexperience.com,,,,Salespeople,Active,13-Feb-20,,2785
+Duvilaire,Kenzley,Kenzley Duvilaire,Kenzley.Duvilaire@thewirelessexperience.com,,,,Salespeople,Active,22-Oct-19,,3200
+Dos Santos,Joel,Joel Dos Santos,joel.dossantos@thewirelessexperience.com,,,,Salespeople,Active,06-Feb-20,,2785
+Morales,Aliz,Aliz Morales,aliz.morales@thewirelessexperience.com,,,,Store Team Leader,Active,01-Nov-21,,1797
+Greenwood,Wesley,Wesley Greenwood,wesley.greenwood@thewirelessexperience.com,,,,Salespeople,Active,23-Mar-21,,3260
+Malave,Frank,Frank Malave,frank.malave@thewirelessexperience.com,,,,Salespeople,Active,08-Nov-21,,3273
+Woodson,Will,Will Woodson,will.woodson@thewirelessexperience.com,,,,Store Team Leader,Active,08-Nov-21,,2675
+Kurdonik,Michael,Michael Kurdonik,michael.kurdonik@thewirelessexperience.com,,,,Salespeople,Active,08-Nov-21,,2862
+Rogers,Jared,Jared Rogers,jared.rogers@thewirelessexperience.com,,,,Salespeople,Active,15-Nov-21,,3228
+Monte,Zoey,Zoey Monte,zoey.monte@thewirelessexperience.com,,,,Salespeople,Active,15-Nov-21,,785
+Dawood,Zain,Zain Dawood,zain.dawood@thewirelessexperience.com,,,,Salespeople,Active,15-Nov-21,,1961
+Channels,McKenzie,McKenzie Channels,McKenzie.Channels@thewirelessexperience.com,,,,Salespeople,Active,16-Nov-21,,2718
+Rodriguez,Joshua,Joshua Rodriguez,joshua.rodriguez@thewirelessexperience.com,,,,Salespeople,Active,29-Nov-21,,1071
+Muniz,Theresa,Theresa Muniz,Theresa.Muniz@thewirelessexperience.com,,,,Salespeople,Active,29-Nov-21,,2188
+Parker,Brandon,Brandon Parker,brandon.parker@thewirelessexperience.com,,,,Store Team Leader,Active,03-Jan-22,,3236
+Longo,Layne,Layne Longo,layne.longo@thewirelessexperience.com,,,,Salespeople,Active,06-Dec-21,,2242
+Flores,Darius,Darius Flores,Darius.Flores@thewirelessexperience.com,,,,Salespeople,Active,04-Jan-22,,3164
+DeLucca,Thomas,Thomas DeLucca,Thomas.DeLucca@thewirelessexperience.com,,,,Salespeople,Active,04-Jan-22,,3146
+Townsend,Latrell,Latrell Townsend,Latrell.Townsend@thewirelessexperience.com,,,,Salespeople,Active,04-Jan-22,,3313
+Schwartz,Natalie,Natalie Schwartz,Natalie.Schwartz@thewirelessexperience.com,,,,Salespeople,Active,10-Jan-22,,3074
+Rainey,Shamauri,Shamauri Rainey,Shamauri.Rainey@thewirelessexperience.com,,,,Salespeople,Active,05-Jan-22,,1191
+Mammy,Magnus,Magnus Mammy,magnus.mammy@thewirelessexperience.com,,,,Store Team Leader,Active,05-Jan-22,,1631
+Corniel,Giselle,Giselle Corniel,Giselle.Corniel@thewirelessexperience.com,,,,Salespeople,Active,04-Jan-22,,3068
+Awonusi,Joseph,Joseph Awonusi,Joseph.Awonusi@thewirelessexperience.com,,,,Salespeople,Active,04-Jan-22,,1573
+Skinner,Brianna,Brianna Skinner,brianna.skinner@thewirelessexperience.com,,,,Salespeople,Active,10-Jan-22,,785
+Dumonet,Mae,Mae Dumonet,mae.dumont@thewirelessexperience.com,,,,Salespeople,Active,24-Jan-22,,2604
+Jones,Spirit,Spirit Jones,Spirit.Jones@thewirelessexperience.com,,,,Salespeople,Active,10-Jan-22,,2984
+Staff Support,IT,IT Staff Support,It.staffsupport@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+Staff Support,HR,HR Staff Support,Hr.staffsupport@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+Staff Support,AP,AP Staff Support,Ap.staffsupport@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+Staff Support,Reporting,Reporting Staff Support,Reporting.staffsupport@tweatt.com,,,,Human Resources,Active,01-Sep-21,,
+Rieck,Lars,Lars Rieck,Lars.Rieck@thewirelessexperience.com,,,,Salespeople,Active,17-Jan-22,,1900
+Test,Test,Test Test,Test@tweatt.com,,,,Store Team Leader,Active,16-Jan-22,,
+Arocho,Andrew,Andrew Arocho,Andrew.Arocho@thewirelessexperience.com,,,,Salespeople,Active,24-Jan-22,,2594
+Boyd,Anthony,Anthony Boyd,Anthony.Boyd@thewirelessexperience.com,,,,Salespeople,Active,24-Jan-22,,2242
+Bitting,Michaela,Michaela Bitting,Michaela.Bitting@thewirelessexperience.com,,,,Salespeople,Active,31-Jan-22,,2713
+Ludovico,Matthew,Matthew Ludovico,Matthew.Ludovico@thewirelessexperience.com,,,,Salespeople,Active,31-Jan-22,,3194
+Henriquez,Rebeca,Rebeca Henriquez,Rebeca.Henriquez@thewirelessexperience.com,,,,Salespeople,Active,31-Jan-22,,3034
+Mahon,Connor,Connor Mahon,Connor.Mahon@thewirelessexperience.com,,,,Salespeople,Active,31-Jan-22,,1848
+Diaz,Angel,Angel Diaz,angel.diaz@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,3304
+Macneal,Stephen,Stephen Macneal,Stephen.Macneal@thewirelessexperience.com,,,,Store Team Leader,Active,14-Feb-22,,2718
+Soto,Julie,Julie Soto,Julie.Soto@thewirelessexperience.com,,,,Salespeople,Active,16-Feb-22,,1743
+Abate,Peter,Peter Abate,Peter.Abate@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,3228
+Luscher,Kessie,Kessie Luscher,Kessie.Luscher@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,3079
+Hernandez,Brenin,Brenin Hernandez,brenin.hernandez@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,1397
+Robinson,Moi,Moi Robinson,Moi.Robinson@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,1875
+Patel,Milan,Milan Patel,Milan.Patel@thewirelessexperience.com,,,,Salespeople,Active,07-Feb-22,,3228
+Young,Ruby,Ruby Young,Ruby.Young@thewirelessexperience.com,,,,Salespeople,Active,14-Feb-22,,274
+Washington,Snook,Snook Washington,Snook.Washington@thewirelessexperience.com,,,,Salespeople,Active,14-Feb-22,,1573
+Peaker,Kenyatta,Kenyatta Peaker,Kenyatta.Peaker@thewirelessexperience.com,,,,Salespeople,Active,21-Feb-22,,2241
+Chavarria,Fabian,Fabian Chavarria,Fabian.Chavarria@thewirelessexperience.com,,,,Salespeople,Active,14-Feb-22,,2542
+Tabaczynski,Stephen,Stephen Tabaczynski,Stephen.Tabaczynski@thewirelessexperience.com,,,,Salespeople,Active,14-Feb-22,,3000
+Sheridan,Austin,Austin Sheridan,Austin.Sheridan@thewirelessexperience.com,,,,Salespeople,Active,28-Feb-22,,2883
+Delacruz,Dahiana,Dahiana Delacruz,dahiana.delacruz@thewirelessexperience.com,,,,Salespeople,Active,21-Feb-22,,1432
+Wilson,Kaitlyn,Kaitlyn Wilson,Kaitlyn.Wilson@thewirelessexperience.com,,,,Salespeople,Active,07-Mar-22,,1491
+Broderick,Kristen,Kristen Broderick,kbroderick@tweatt.com,,,,Corporate,Active,21-Feb-22,,1638
+Hook,Dan,Dan Hook,Dan.Hook@thewirelessexperience.com,,,,Salespeople,Active,28-Feb-22,,2862
+Lauria,Maddie,Maddie Lauria,maddie.Lauria@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,2740
+Beck,Kyle,Kyle Beck,Kyle.Beck@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,783
+Will,Tara,Tara Will,Tara.Will@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,3362
+Smith,Travis,Travis Smith,Travis.Smith@thewirelessexperience.com,,,,Salespeople,Active,07-Mar-22,,1639
+Berrafato,Benny,Benny Berrafato,Benny.Berrafato@thewirelessexperience.com,,,,Salespeople,Active,07-Mar-22,,663
+Yeretzian,Gizel,Gizel Yeretzian,gizel.yeretzian@thewirelessexperience.com,,,,Salespeople,Active,21-Mar-22,,2604
+Phillips,Drew,Drew Phillips,Drew.Phillips@thewirelessexperience.com,,,,Salespeople,Active,07-Mar-22,,3146
+Goulbourne,Kwame,Kwame Goulbourne,Kwame.Goulbourne@thewirelessexperience.com,,,,Salespeople,Active,09-Mar-22,,1540
+Esposito,Joe,Joe Esposito,Joe.Esposito@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,3074
+Dumandan,Renz,Renz Dumandan,Renz.Dumandan@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,1976
+Cole,Myles,Myles Cole,Myles.Cole@thewirelessexperience.com,,,,Salespeople,Active,16-Mar-22,,2009
+GOLDSTEIN,JORDAN,JORDAN GOLDSTEIN,Jordan.Goldstein@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,3044
+Favilla,Chris,Chris Favilla,Chris.Favilla@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,1760
+Ordonez,Elder,Elder Ordonez,Elder.ordonez@thewirelessexperience.com,,,,Salespeople,Active,14-Mar-22,,3169
+Ashby,Jake,Jake Ashby,jake.Ashby@thewirelessexperience.com,,,,Salespeople,Active,21-Mar-22,,1573
+Hamlett,Corii,Corii Hamlett,Corii.Hamlett@thewirelessexperience.com,,,,Salespeople,Active,16-Mar-22,,1573
+Torres,Edwin,Edwin Torres,Edwin.Torres@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,2510
+Howard,Nile,Nile Howard,Nile.Howard@thewirelessexperience.com,,,,Salespeople,Active,21-Mar-22,,3087
+Alpha,Josh,Josh Alpha,Josh.Alpha@thewirelessexperience.com,,,,Salespeople,Active,28-Mar-22,,3273
+Camilo,Joe,Joe Camilo,Joe.Camilo@thewirelessexperience.com,,,,Salespeople,Active,21-Mar-22,,3087
+Mahmood,Asad,Asad Mahmood,Asad.Mahmood@thewirelessexperience.com,,,,Salespeople,Active,10-Apr-22,,1237
+Gagai,Patrick,Patrick Gagai,Patrick.Gagai@thewirelessexperience.com,,,,Salespeople,Active,27-Mar-22,,3000
+Young,Brendan,Brendan Young,Brendan.Young@thewirelessexperience.com,,,,Salespeople,Active,27-Mar-22,,2984
+Chism,Nebia,Nebia Chism,Nebia.CHISM@thewirelessexperience.com,,,,Salespeople,Active,27-Mar-22,,2650
+Ellis,Carson,Carson Ellis,Carson.Ellis@thewirelessexperience.com,,,,Salespeople,Active,27-Mar-22,,2470
+Laine,Cheyenne,Cheyenne Laine,Cheyenne.Laine@thewirelessexperience.com,,,,Salespeople,Active,27-Mar-22,,3287
+Bint-Shafeeq,Maryam,Maryam Bint-Shafeeq,Maryam.Bint-Shafeeq@thewirelessexperience.com,,,,Salespeople,Active,28-Mar-22,,1071
+Botelho,Bruce,Bruce Botelho,Bruce.Botelho@thewirelessexperience.com,,,,Salespeople,Active,28-Mar-22,,3164
+Ryder,Shane,Shane Ryder,Shane.Ryder@thewirelessexperience.com,,,,Salespeople,Active,30-Mar-22,,2196
+Amaral,Molly,Molly Amaral,Molly.Amaral@thewirelessexperience.com,,,,Salespeople,Active,28-Mar-22,,3137
+Hines,Willie,Willie Hines,Willie.Hines@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,3445
+Davis,Carissa,Carissa Davis,carissa.Davis@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,2242
+Ciesla,Benjamin,Benjamin Ciesla,Benjamin.Ciesla@thewirelessexperience.com,,,,Store Team Leader,Active,04-Apr-22,,1797
+Minotti,Brooke,Brooke Minotti,Brooke.Minotti@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,3000
+Gomez,Maria,Maria Gomez,Maria.Gomez@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,3146
+Maloney,Chris,Chris Maloney,Chris.Maloney@thewirelessexperience.com,,,,Salespeople,Active,04-Apr-22,,3200
+Diaz,Allison,Allison Diaz,Allison.Diaz@thewirelessexperience.com,,,,Salespeople,Active,18-Apr-22,,1573
+Cortez,Bri,Bri Cortez,Bri.Cortez@thewirelessexperience.com,,,,Salespeople,Active,11-Apr-22,,1639
+Seeley,Norman,Norman Seeley,Norman.Seeley@thewirelessexperience.com,,,,Salespeople,Active,11-Apr-22,,2816
+Tran,Bo,Bo Tran,Bo.Tran@thewirelessexperience.com,,,,Salespeople,Active,11-Apr-22,,2572
+Ortiz,Nicolle,Nicolle Ortiz,nicolle.gonzalez@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,2889
+Pierre,Kevin,Kevin Pierre,Kevin.Pierre@thewirelessexperience.com,,,,Salespeople,Active,11-Apr-22,,3283
+Wachter,Adam,Adam Wachter,Adam.wachter@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,2497
+Weitzel,Eric,Eric Weitzel,Eric.Weitzel@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,2203
+Donkor,Andy,Andy Donkor,Andy.Donkor@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,2554
+Atherley,Alex,Alex Atherley,Alex.Atherley@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,3215
+Coers,Cody,Cody Coers,Cody.Coers@thewirelessexperience.com,,,,Salespeople,Active,18-Apr-22,,3260
+Weekes-Young,Jude,Jude Weekes-Young,Jude.Weekes-Young@thewirelessexperience.com,,,,Salespeople,Active,18-Apr-22,,3228
+Laigner,Henrique,Henrique Laigner,Henrique.Laigner@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,2918
+Drovich,Stephanie,Stephanie Drovich,Stephanie.Drovich@thewirelessexperience.com,,,,Salespeople,Active,18-Apr-22,,3174
+Nwani,Divine,Divine Nwani,Divine.Nwani@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,3445
+Hunt-Johnson,Brett,Brett Hunt-Johnson,Brett.Hunt-Johnson@thewirelessexperience.com,,,,Salespeople,Active,20-Apr-22,,2440
+Erickson,Emily,Emily Erickson,Emily.Erickson@thewirelessexperience.com,,,,Salespeople,Active,25-Apr-22,,3079
+Ramos,Kayla,Kayla Ramos,Kayla.Ramos@thewirelessexperience.com,,,,Salespeople,Active,24-Apr-22,,2942
+Cook,Christian,Christian Cook,Christian.Cook@thewirelessexperience.com,,,,Salespeople,Active,24-Apr-22,,1540
+Imbriaco,Dan,Dan Imbriaco,Dan.Imbriaco@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,3174
+Graubard,Jorge,Jorge Graubard,Jorge.Graubard@thewirelessexperience.com,,,,Salespeople,Active,24-Apr-22,,2883
+Deabreu,Garesha,Garesha Deabreu,Garesha.Deabreu@thewirelessexperience.com,,,,Salespeople,Active,03-May-22,,2906
+Conner,Ty-Anthony,Ty-Anthony Conner,Ty-Anthony.Conner@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,2470
+Valle,Eli,Eli Valle,eli.delvalle@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,1573
+Barrett,Khadee,Khadee Barrett,Khadee.Barrett@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,1848
+Knight,Larry,Larry Knight,Larry.Knight@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,2839
+Adams,John,John Adams,John.Adams@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,2862
+Amaya,Stephanie,Stephanie Amaya,Stephanie.Amaya@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,2839
+Mills,Angelo,Angelo Mills,Angelo.Mills@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,3287
+Pierre,Alex,Alex Pierre,Alex.Pierre@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,1639
+Sahjani,Sahil,Sahil Sahjani,Sahil.Sahjani@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,3304
+Richards,Tyler,Tyler Richards,Tyler.Richards@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,2906
+Vovchik,Nick,Nick Vovchik,nick.vovchik@thewirelessexperience.com,,,,Salespeople,Active,02-May-22,,1564
+Mendy,Ahmed,Ahmed Mendy,Ahmed.Mendy@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,2778
+Wilson,Jasmine,Jasmine Wilson,jwilson@thewirelessexperience.com,,,,Salespeople,Active,05-May-22,,2778
+Pelaez,Daniela,Daniela Pelaez,Daniela.Pelaez@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,2839
+Robinson,Jessica,Jessica Robinson,Jessica.ROBINSON@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,1237
+Villaluna,Marlou,Marlou Villaluna,Marlou.Villaluna@thewirelessexperience.com,,,,Salespeople,Active,24-May-22,,3000
+Asencio,Rony,Rony Asencio,Rony.Asencio@thewirelessexperience.com,,,,Salespeople,Active,09-May-22,,3215
+Peters,Madi,Madi Peters,Madi.Peters@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,3445
+Spence,Jessica,Jessica Spence,Jessica.Spence@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,2816
+Paulino,Angel,Angel Paulino,Angel.Paulino@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,2713
+Velasco,Edwin,Edwin Velasco,edwin.velasco@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,3271
+Rondon,Lena,Lena Rondon,Lena.Rondon@thewirelessexperience.com,,,,Salespeople,Active,16-May-22,,1564
+Wilson,Kamel,Kamel Wilson,Kamel.Wilson@thewirelessexperience.com,,,,Salespeople,Active,17-May-22,,3169
+Fischbach,Kyle,Kyle Fischbach,Kyle.Fischbach@thewirelessexperience.com,,,,Salespeople,Active,23-May-22,,2255
+Sheets,Tori,Tori Sheets,Tori.Sheets@thewirelessexperience.com,,,,Salespeople,Active,23-May-22,,1071
+Valcin,Herol,Herol Valcin,Herol.Valcin@thewirelessexperience.com,,,,Salespeople,Active,08-Jun-22,,2788
+Johnson,Jason,Jason Johnson,Jason.Johnson@thewirelessexperience.com,,,,Salespeople,Active,23-May-22,,2255
+Camacho,Angele,Angele Camacho,Angele.Camacho@thewirelessexperience.com,,,,Salespeople,Active,25-May-22,,1540
+Mezilus,Kay,Kay Mezilus,Kay.Mezilus@thewirelessexperience.com,,,,Salespeople,Active,06-Jun-22,,3194
+Hernandez,Brian,Brian Hernandez,Brian.Hernandez@thewirelessexperience.com,,,,Salespeople,Active,30-May-22,,2079
+Cesar,Marvine,Marvine Cesar,Marvine.Cesar@thewirelessexperience.com,,,,Salespeople,Active,25-May-22,,2785
+Nath,Nicholas,Nicholas Nath,Nicholas.Nath@thewirelessexperience.com,,,,Salespeople,Active,01-Jun-22,,3283
+Lozzi,Julia,Julia Lozzi,Julia.Lozzi@thewirelessexperience.com,,,,Salespeople,Active,01-Jun-22,,2816
+McGinley,Liam,Liam McGinley,Liam.McGinley@thewirelessexperience.com,,,,Salespeople,Active,06-Jun-22,,2839
+Rosa,Isabel,Isabel Rosa,isabel.rosa@thewirelessexperience.com,,,,Salespeople,Active,01-Jun-22,,2188
+Zentz,Zachary,Zachary Zentz,zachary.zentz@thewirelessexperience.com,,,,Salespeople,Active,06-Jun-22,,3146
+Young,Kai,Kai Young,kai.young@thewirelessexperience.com,,,,Salespeople,Active,02-Jun-22,,2839
+Wheeler,Kiara,Kiara Wheeler,Kiara.Wheeler@thewirelessexperience.com,,,,Salespeople,Active,06-Jun-22,,2778
+Bodamer,Dane,Dane Bodamer,dane.bodamer@thewirelessexperience.com,,,,Salespeople,Active,20-Jun-22,,2542
+Roberts,Airrionna,Airrionna Roberts,Airrionna.Roberts@thewirelessexperience.com,,,,Salespeople,Active,13-Jun-22,,3287
+Robertson,Leah,Leah Robertson,Leah.Robertson@thewirelessexperience.com,,,,Salespeople,Active,06-Jun-22,,3068
+Murphy,Garrett,Garrett Murphy,Garrett.Murphy@thewirelessexperience.com,,,,Salespeople,Active,13-Jun-22,,2788
